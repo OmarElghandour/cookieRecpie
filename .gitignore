@@ -1,0 +1,10 @@
+# Ignore Composer vendor directory
+/vendor/
+
+# Ignore PHPUnit configuration files
+/phpunit.xml
+/phpunit.xml.dist
+
+# Ignore any other files generated during testing or development
+/coverage/         # Ignore coverage reports
+/phpunit.log       # Ignore PHPUnit log file (if generated)
