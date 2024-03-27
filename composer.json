@@ -3,7 +3,7 @@
     "description": "A basic PHP project with Composer and PHPUnit",
     "type": "project",
     "require": {
-        "phpunit/phpunit": "^9.0"
+        "phpunit/phpunit": "^10.5"
     },
     "autoload": {
         "psr-4": {

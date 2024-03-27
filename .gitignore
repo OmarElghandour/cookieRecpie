@@ -8,3 +8,4 @@
 # Ignore any other files generated during testing or development
 /coverage/         # Ignore coverage reports
 /phpunit.log       # Ignore PHPUnit log file (if generated)
+git push -u origin master
